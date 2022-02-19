@@ -1,0 +1,14 @@
+[workspace]
+members=[
+    "hello_world",
+    "lasagna",
+    "magazine_cutout",
+    "assembly_line",
+    "semi_logs",
+    "resistor",
+    "health_statistics",
+    "role_game",
+    "embedded_game",
+    "fibonacci"
+]
+default-members=["fibonacci"]
