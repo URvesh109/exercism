@@ -9,6 +9,7 @@ members=[
     "health_statistics",
     "role_game",
     "embedded_game",
-    "fibonacci"
+    "fibonacci",
+    "rpn_calc"
 ]
-default-members=["fibonacci"]
+default-members=["rpn_calc"]

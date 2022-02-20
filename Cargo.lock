@@ -119,6 +119,10 @@ name = "role_game"
 version = "0.1.0"
 
 [[package]]
+name = "rpn_calc"
+version = "0.1.0"
+
+[[package]]
 name = "semi_logs"
 version = "0.1.0"
 
