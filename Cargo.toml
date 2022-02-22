@@ -10,6 +10,7 @@ members=[
     "role_game",
     "embedded_game",
     "fibonacci",
-    "rpn_calc"
+    "rpn_calc",
+    "reverse_str"
 ]
-default-members=["rpn_calc"]
+default-members=["reverse_str"]
