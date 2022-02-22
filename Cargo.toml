@@ -11,6 +11,7 @@ members=[
     "embedded_game",
     "fibonacci",
     "rpn_calc",
-    "reverse_str"
+    "reverse_str",
+    "giga_second"
 ]
-default-members=["reverse_str"]
+default-members=["giga_second"]
