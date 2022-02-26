@@ -12,6 +12,7 @@ members=[
     "fibonacci",
     "rpn_calc",
     "reverse_str",
-    "giga_second"
+    "giga_second",
+    "clock"
 ]
-default-members=["giga_second"]
+default-members=["clock"]
