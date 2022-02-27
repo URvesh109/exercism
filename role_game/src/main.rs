@@ -7,7 +7,7 @@ struct Player {
 }
 
 impl Player {
-    fn revive(self) -> Option<Player> {
+    fn _revive(self) -> Option<Player> {
         match self.health {
             0 => {
                 let p1 = Player {

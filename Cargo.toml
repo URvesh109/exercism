@@ -13,6 +13,7 @@ members=[
     "rpn_calc",
     "reverse_str",
     "giga_second",
-    "clock"
+    "clock",
+    "anagram"
 ]
-default-members=["clock"]
+default-members=["anagram"]
