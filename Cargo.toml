@@ -15,6 +15,7 @@ members=[
     "giga_second",
     "clock",
     "anagram",
-    "space_age"
+    "space_age",
+    "sublist"
 ]
-default-members=["space_age"]
+default-members=["sublist"]
