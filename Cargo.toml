@@ -16,6 +16,7 @@ members=[
     "clock",
     "anagram",
     "space_age",
-    "sublist"
+    "sublist",
+    "minesweeper"
 ]
-default-members=["sublist"]
+default-members=["minesweeper"]

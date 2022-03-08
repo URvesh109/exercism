@@ -7,11 +7,11 @@
     {
       "type": "lldb",
       "request": "launch",
-      "name": "Debug executable 'clock'",
+      "name": "Debug executable 'minesweeper'",
       "cargo": {
-        "args": ["build", "--bin=clock", "--package=clock"],
+        "args": ["build", "--bin=minesweeper", "--package=minesweeper"],
         "filter": {
-          "name": "clock",
+          "name": "minesweeper",
           "kind": "bin"
         }
       },
