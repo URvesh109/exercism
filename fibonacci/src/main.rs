@@ -18,9 +18,6 @@ impl Iterator for Fobonacci {
 }
 
 fn main() {
-    println!("{:?}", create_buffer(5));
-    println!();
-
     let fib = Fobonacci { curr: 0, next: 1 };
 
     for i in fib.take(8) {
