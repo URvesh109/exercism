@@ -1,7 +1,3 @@
-fn create_buffer(size: usize) -> Vec<usize> {
-    vec![0; size]
-}
-
 struct Fobonacci {
     curr: u32,
     next: u32,
