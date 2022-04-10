@@ -18,6 +18,7 @@ members=[
     "space_age",
     "sublist",
     "minesweeper",
-    "luhn"
+    "luhn",
+    "poker",
 ]
-default-members=["luhn"]
+default-members=["poker"]

@@ -7,11 +7,11 @@
     {
       "type": "lldb",
       "request": "launch",
-      "name": "Debug executable 'minesweeper'",
+      "name": "Debug executable 'poker'",
       "cargo": {
-        "args": ["build", "--bin=minesweeper", "--package=minesweeper"],
+        "args": ["build", "--bin=poker", "--package=poker"],
         "filter": {
-          "name": "minesweeper",
+          "name": "poker",
           "kind": "bin"
         }
       },
